@@ -133,4 +133,4 @@ functions.
 ## Contact
 
 **Vijay Chandra Vaddepally** — Data Analyst, Hyderabad
-[LinkedIn](your-url) · [Portfolio](your-url) · vijaychandra1103@gmail.com
+[LinkedIn](https://www.linkedin.com/in/vijay-vaddepally/) · [Portfolio](https://www.datascienceportfol.io/vijaychandra1103) · vijaychandra1103@gmail.com
